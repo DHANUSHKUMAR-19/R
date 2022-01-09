@@ -1,5 +1,5 @@
 print("First 10 letters of alpabet in lowercase\n")
-t=head(letters,26)
+t=head(letters,10)
 print(t)
 print("Last 10 letters of alphabet in upppercase\n")
 a=tail(LETTERS,10)
